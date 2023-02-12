@@ -52,7 +52,7 @@ dart_code_metrics:
     - no-equal-then-else
     - prefer-trailing-comma
     - member-ordering-extended:
-        alphabetize: false # TODO set true after code-dart_code_metrics update
+        alphabetize: false
         order:
           - public-static-const-fields
           - private-static-const-fields
@@ -256,4 +256,3 @@ linter:
 
     # Pub rules.
     package_names: true
-    sort_pub_dependencies: true
