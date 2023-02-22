@@ -1,1 +1,1 @@
-include: src/actual.yaml
+include: package:mjk_lint_rules/src/actual.yaml
