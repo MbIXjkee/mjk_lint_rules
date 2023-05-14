@@ -1,12 +1,12 @@
 name: mjk_lint_rules
-version: 1.0.1
+version: 2.0.0
 description: Lint rules for Dart and Flutter projects.
 repository: "https://github.com/MbIXjkee/mjk-lint-rules"
 issue_tracker: "https://github.com/MbIXjkee/mjk-lint-rules/issues"
 
 dependencies:
-  dart_code_metrics: ^5.5.1
+  dart_code_metrics: ^5.7.3
   flutter_lints: ^2.0.1
 
 environment:
-  sdk: ">=2.13.0 <3.0.0"
+  sdk: ">=3.0.0 <4.0.0"
