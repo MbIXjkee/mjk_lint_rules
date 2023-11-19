@@ -2,6 +2,11 @@
 
 ## Unreleased
 
+## 3.0.0
+### Add
+* Support Flutter Lints 3
+* Remove DCM due to discontinued support
+
 ## 2.0.0
 ### Add
 * Support Dart 3
