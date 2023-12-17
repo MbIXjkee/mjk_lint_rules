@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 3.0.1
+### Changed
+* Small adjustment based on personal preferences
+
 ## 3.0.0
 ### Add
 * Support Flutter Lints 3
