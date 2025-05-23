@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 4.0.2
+### Changed
+* The same version as 4.0.1 but correctly using set of rules in actual.
+
 ## 4.0.1
 ### Changed
 * Resolve a conflict between the rules.
