@@ -2,6 +2,16 @@
 
 ## Unreleased
 
+## 4.0.1
+### Changed
+* Resolve a conflict between the rules.
+
+## 4.0.0
+### Add
+* Supporte new rules.
+### Changed
+* Decouple from other sets of rules.
+
 ## 3.0.1
 ### Changed
 * Small adjustment based on personal preferences
