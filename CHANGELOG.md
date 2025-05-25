@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 4.0.3
+### Changed
+* Add formatter options to keep trailing commas.
+
 ## 4.0.2
 ### Changed
 * The same version as 4.0.1 but correctly using set of rules in actual.
