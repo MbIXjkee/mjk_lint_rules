@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 4.0.4
+### Fixed
+* Fix conflict between type_annotate_public_apis and omit_obvious_property_types.
+
 ## 4.0.3
 ### Changed
 * Add formatter options to keep trailing commas.
